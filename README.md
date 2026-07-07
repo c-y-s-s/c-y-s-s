@@ -1,27 +1,27 @@
-# Hi, I'm Leo
+# Hi, I'm Leo 👋
 
-I'm a software developer focused on building practical web applications and AI-powered tools.
+I'm a frontend-focused developer who enjoys building responsive, maintainable web applications with React, Vue, Nuxt, and TypeScript.
 
-Recently, I built a citation-first restaurant operations RAG assistant using OpenAI, FastAPI, Nuxt 3, Supabase PostgreSQL, and pgvector.
+I care about clean UI implementation, smooth API integration, and turning product requirements into usable web experiences.
 
-## Featured Project
+## 🚀 Featured Project
 
-**Restaurant Operations RAG**  
-A full-stack AI assistant that helps restaurant teams search operational knowledge with source-grounded answers.
+### Restaurant Operations RAG
 
-- Built RAG pipeline with OpenAI embeddings and pgvector
-- Developed FastAPI backend and Nuxt 3 frontend
-- Used Supabase PostgreSQL for document storage and retrieval
-- Deployed live demo on Vercel
+A citation-first AI assistant for restaurant operations, built with OpenAI, FastAPI, Nuxt 3, Supabase PostgreSQL, and pgvector.
 
-Live Demo: https://restaurant-operations-rag.vercel.app  
-Repo: https://github.com/c-y-s-s/restaurant-operations-rag
+- Built a RAG workflow with embeddings and vector search
+- Developed API endpoints with FastAPI
+- Implemented the frontend with Nuxt 3
+- Deployed a live demo on Vercel
 
-## Tech Stack
+🔗 Live Demo: https://restaurant-operations-rag.vercel.app  
+📦 Repository: https://github.com/c-y-s-s/restaurant-operations-rag
 
-TypeScript · Vue/Nuxt · React · Python · FastAPI · Supabase · PostgreSQL · OpenAI API
+## 🛠 Tech Stack
 
-## Links
-
-Portfolio: https://c-y-s-s.github.io  
-Email: ...
+**Frontend:** HTML, CSS, RWD, JavaScript, TypeScript, React, Vue, Nuxt  
+**State & UI:** Redux Toolkit, Vuex, Pinia, styled-components, Vuetify, Element Plus  
+**Backend:** Node.js, Express, RESTful API, MySQL, MongoDB  
+**Testing & Tools:** Jest, Selenium, Git, GitHub, GitLab, Postman, Figma  
+**Cloud & AI:** Firebase, AWS basics, OpenAI API
