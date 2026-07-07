@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Leo
 
-<!--
-**c-y-s-s/c-y-s-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer focused on building practical web applications and AI-powered tools.
 
-Here are some ideas to get you started:
+Recently, I built a citation-first restaurant operations RAG assistant using OpenAI, FastAPI, Nuxt 3, Supabase PostgreSQL, and pgvector.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+**Restaurant Operations RAG**  
+A full-stack AI assistant that helps restaurant teams search operational knowledge with source-grounded answers.
+
+- Built RAG pipeline with OpenAI embeddings and pgvector
+- Developed FastAPI backend and Nuxt 3 frontend
+- Used Supabase PostgreSQL for document storage and retrieval
+- Deployed live demo on Vercel
+
+Live Demo: https://restaurant-operations-rag.vercel.app  
+Repo: https://github.com/c-y-s-s/restaurant-operations-rag
+
+## Tech Stack
+
+TypeScript · Vue/Nuxt · React · Python · FastAPI · Supabase · PostgreSQL · OpenAI API
+
+## Links
+
+Portfolio: https://c-y-s-s.github.io  
+Email: ...
