@@ -1,4 +1,4 @@
-# Hi, I'm Leo 👋
+# Hi there 👋
 
 I'm a frontend-focused developer building maintainable web applications with React, Next.js, Vue, Nuxt, and TypeScript.
 
