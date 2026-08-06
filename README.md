@@ -15,10 +15,10 @@
 - [Live Demo](https://frontend-task-investigator.vercel.app) · [Repository](https://github.com/c-y-s-s/frontend-task-investigator)
 
 ### Restaurant Operations RAG
-一套以來源引用為核心的餐廳營運知識檢索助理。
+- 一套以來源引用為核心的餐廳營運知識檢索助理。
 建立包含 Embedding、向量搜尋與來源引用的 RAG 工作流程
 使用 Nuxt 3、FastAPI、OpenAI、Supabase 與 pgvector 開發
-[Live Demo](https://restaurant-operations-rag.vercel.app) · [Repository](https://github.com/c-y-s-s/restaurant-operations-rag)
+- [Live Demo](https://restaurant-operations-rag.vercel.app) · [Repository](https://github.com/c-y-s-s/restaurant-operations-rag)
 
 ## 🛠 技術能力
 - **前端：** TypeScript、React、Next.js、Vue、Nuxt
