@@ -20,8 +20,8 @@
 使用 Nuxt 3、FastAPI、OpenAI、Supabase 與 pgvector 開發
 [Live Demo](https://restaurant-operations-rag.vercel.app) · [Repository](https://github.com/c-y-s-s/restaurant-operations-rag)
 
-技術能力
-**前端：** TypeScript、React、Next.js、Vue、Nuxt
-**後端與資料：** Python、FastAPI、Node.js、PostgreSQL、Supabase
-**AI：** OpenAI API、工具呼叫、結構化輸出、RAG、Embedding
-**測試與部署：** Vitest、Jest、Pytest、Docker、Vercel、Render
+## 🛠 技術能力
+- **前端：** TypeScript、React、Next.js、Vue、Nuxt
+- **後端與資料：** Python、FastAPI、Node.js、PostgreSQL、Supabase
+- **AI：** OpenAI API、工具呼叫、結構化輸出、RAG、Embedding
+- **測試與部署：** Vitest、Jest、Pytest、Docker、Vercel、Render
