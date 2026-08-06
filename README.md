@@ -1,33 +1,29 @@
 # Hi there 👋
 
-I'm a frontend-focused developer building maintainable web applications with React, Next.js, Vue, Nuxt, and TypeScript.
+嗨 👋
+我是一名以前端開發為主的工程師，使用 React、Next.js、Vue、Nuxt 與 TypeScript，打造易於維護的 Web 應用程式。
 
-I focus on UI architecture, API integration, and turning ambiguous requirements into practical engineering workflows. I'm currently exploring AI agents with tool usage, source citations, and human approval.
+我專注於 UI 架構、API 串接，以及將模糊的需求轉化為可實際執行的工程流程。目前正在探索具備工具使用、來源引用與人工審核機制的 AI Agent。
 
-## Featured Projects
+精選專案
+Frontend Agent Workspace
 
-### Frontend Agent Workspace
+一套由 AI 驅動的工作平台，用於分析 GitHub Issues、API、程式錯誤與 Pull Requests。
 
-An AI-powered workspace for investigating GitHub issues, APIs, bugs, and pull requests.
+設計結構化的 Agent 工作流程，搭配唯讀工具與來源引用
+加入人工審核、流程重播、SSE 串流回應與結構化驗證
+使用 Next.js、TypeScript、FastAPI、PostgreSQL、OpenAI API 與 GitHub API 開發
+線上展示 · 原始碼儲存庫
+Restaurant Operations RAG
 
-- Built structured agent workflows with read-only tools and cited outputs
-- Added human approval, replay mode, SSE streaming, and structured validation
-- Built with Next.js, TypeScript, FastAPI, PostgreSQL, OpenAI, and GitHub API
+一套以來源引用為核心的餐廳營運知識檢索助理。
 
-[Live Demo](https://frontend-task-investigator.vercel.app) · [Repository](https://github.com/c-y-s-s/frontend-task-investigator)
+建立包含 Embedding、向量搜尋與來源引用的 RAG 工作流程
+使用 Nuxt 3、FastAPI、OpenAI、Supabase 與 pgvector 開發
+線上展示 · 原始碼儲存庫
+技術能力
 
-### Restaurant Operations RAG
-
-A citation-first assistant for retrieving restaurant operations knowledge.
-
-- Built RAG workflows with embeddings, vector search, and citations
-- Built with Nuxt 3, FastAPI, OpenAI, Supabase, and pgvector
-
-[Live Demo](https://restaurant-operations-rag.vercel.app) · [Repository](https://github.com/c-y-s-s/restaurant-operations-rag)
-
-## Tech Stack
-
-**Frontend:** TypeScript, React, Next.js, Vue, Nuxt  
-**Backend & Data:** Python, FastAPI, Node.js, PostgreSQL, Supabase  
-**AI:** OpenAI API, tool calling, structured outputs, RAG, embeddings  
-**Testing & Deployment:** Vitest, Jest, Pytest, Docker, Vercel, Render
+**前端：**TypeScript、React、Next.js、Vue、Nuxt
+**後端與資料：**Python、FastAPI、Node.js、PostgreSQL、Supabase
+**AI：**OpenAI API、工具呼叫、結構化輸出、RAG、Embedding
+**測試與部署：**Vitest、Jest、Pytest、Docker、Vercel、Render
