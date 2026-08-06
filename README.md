@@ -23,5 +23,5 @@
 ## 🛠 技術能力
 - **前端：** TypeScript、React、Next.js、Vue、Nuxt
 - **後端與資料：** Python、FastAPI、Node.js、PostgreSQL、Supabase
-- **AI：** OpenAI API、工具呼叫、結構化輸出、RAG、Embedding
+- **AI & Agents：** OpenAI API, structured output, tool calling, RAG, embeddings, human-in-the-loop workflows  
 - **測試與部署：** Vitest、Jest、Pytest、Docker、Vercel、Render
