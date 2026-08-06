@@ -12,7 +12,7 @@
 - 設計結構化的 Agent 工作流程，搭配唯讀工具與來源引用
 - 加入人工審核、流程重播、SSE 串流回應與結構化驗證
 - 使用 Next.js、TypeScript、FastAPI、PostgreSQL、OpenAI API 與 GitHub API 開發
-[Live Demo](https://frontend-task-investigator.vercel.app) · [Repository](https://github.com/c-y-s-s/frontend-task-investigator)
+- [Live Demo](https://frontend-task-investigator.vercel.app) · [Repository](https://github.com/c-y-s-s/frontend-task-investigator)
 
 ### Restaurant Operations RAG
 一套以來源引用為核心的餐廳營運知識檢索助理。
