@@ -20,7 +20,7 @@
 - 使用 Next.js、TypeScript、Python、Supabase、OpenAI API、Notion API 與 GitHub API 開發
 
 [Live Demo](https://notion-github-coding-agent.vercel.app) ·
-[Demo Video](https://youtu.be/2L_xbkq8Ges) ·
+[Demo Video](https://youtu.be/TPr4YH-15n8) ·
 [Repository](https://github.com/c-y-s-s/notion-github-coding-agent)
 
 ### Restaurant Operations RAG
