@@ -1,5 +1,3 @@
-# Leo Chang｜Full-stack Engineer
-
 嗨，我是一名全端工程師，具備近 4 年 Web 開發經驗，主要優勢是前端架構與產品介面開發，同時具備 RESTful API、資料庫設計、權限整合及部署能力。
 
 主要使用 Vue、Nuxt、React、Next.js 與 TypeScript，曾參與多項 B2B／B2C 商業專案的開發與正式交付，涵蓋企業管理平台、電商、NFC、eSIM 與品牌官網。
